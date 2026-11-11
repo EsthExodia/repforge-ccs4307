@@ -1,2 +1,5 @@
-# repforge-ccs4307
-RepForge workout tracking app prototype with exercise library, workout templates, and tutorial links.
+node_modules
+/dist
+.vite
+.DS_Store
+npm-debug.log*
